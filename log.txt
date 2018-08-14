@@ -20,14 +20,6 @@ Sampling rate                            : 48.0 kHz
 Bit depth                                : 16 bits
 Stream size                              : 5.49 MiB (100%)
 
-
-
-
-
-
-
-
-
 mac2015@ubuntu:~/dev$ mediainfo working.wav
 General
 Complete name                            : working.wav
